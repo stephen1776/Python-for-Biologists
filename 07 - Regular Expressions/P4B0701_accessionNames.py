@@ -3,8 +3,6 @@ Here's a list of made up gene accession names:
 
 accessions = ['xkn59438', 'yhdck2', 'eihd39d9', 'chdsye847', 'hedle3455', 'xjhd53e', '45da', 'de37dp']
 
-Copy and paste this line into your text editor (or whatever you're using to write Python code).
-
 Write a program that will print only the accession names that satisfy the following criteria – treat each criterion separately:
 
     contain the number 5
